@@ -1,5 +1,5 @@
 [project]
-name = "logthis"
+name = "logthisx"
 version = "0.1.0"
 description = "A lightweight Python logging utility with colors and timestamps."
 authors = [{ name = "Kevin Gregoire", email = "kevin.gregoire1004@gmail.com" }]
