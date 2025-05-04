@@ -37,7 +37,7 @@ Because sometimes, you just want to... `logthis()`.
 
 Install with pip:
 ```bash
-pip install logthis
+pip install logthisx
 ```	
 
 ---
